@@ -1,0 +1,17 @@
+.SearchContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.SearchName {
+  padding: 10px;
+}
+
+.ContName {
+  padding: 10px;
+}
+
+.InputSearch {
+  padding: 5px;
+}
